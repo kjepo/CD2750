@@ -17,7 +17,7 @@ som den var då.
 
 | Fil | Sidor | Beskrivning |
 | --- | ---: | --- |
-| [semantik.pdf](semantik.pdf) | 229 | Föreläsningsbilder: introduktion, Gofer, operationell semantik, denotationssemantik och λ-kalkyl, beräkningsmodeller och domänteori, direct style-semantik, fortsättningar, statisk analys och axiomatisk semantik – med de utdelade bladen som bilagor |
+| [semantik.pdf](semantik.pdf) | 230 | Föreläsningsbilder: introduktion, Gofer, operationell semantik, denotationssemantik och λ-kalkyl, beräkningsmodeller och domänteori, direct style-semantik, fortsättningar, statisk analys och axiomatisk semantik – med de utdelade bladen som bilagor |
 | [labpm.pdf](labpm.pdf) | 10 | Laborationsmaterial: implementationer av de olika semantikstilarna i Gofer |
 | [gofer.pdf](gofer.pdf) | 3 | Programmeringsspråket Gofer – en kort introduktion |
 | [kursinfo.pdf](kursinfo.pdf) | 2 | Kursinformation för period 2 1997/98: upplägg, förkunskaper, litteratur och examination |
