@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="CD2750.pdf"><img src="CD2750-bokomslag-3d.jpg" alt="CD2750 Programspråkssemantik – hela kursmaterialet som en bok (PDF)" width="200"></a>
+  <a href="CD2750.pdf"><img src="CD2750-bokomslag-3d.jpg" alt="CD2750 Programspråkssemantik – hela kursmaterialet som en bok (PDF)" width="400"></a>
 </p>
 
 # CD2750 Programspråkssemantik
