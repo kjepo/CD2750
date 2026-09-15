@@ -30,8 +30,10 @@ som den var då.
 
 ## Litteratur
 
-Kursboken var *Semantics with Applications: A Formal Introduction* av Hanne Riis
-Nielson och Flemming Nielson (John Wiley & Sons, 1992).
+Kursboken var
+[*Semantics with Applications: A Formal Introduction*](https://www.cs.ru.nl/~herman/onderwijs/semantics2023/wiley.pdf)
+av Hanne Riis Nielson och Flemming Nielson (John Wiley & Sons, 1992).
+Länken går till författarnas reviderade upplaga från 1999.
 
 ## Upphov
 
