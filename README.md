@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="CD2750-bokomslag-3d.jpg" alt="Bokomslag för CD2750 Programspråkssemantik" width="400">
+  <a href="CD2750.pdf"><img src="CD2750-bokomslag-3d.jpg" alt="CD2750 Programspråkssemantik – hela kursmaterialet som en bok (PDF)" width="200"></a>
 </p>
 
 # CD2750 Programspråkssemantik
@@ -21,6 +21,7 @@ som den var då.
 
 | Fil | Sidor | Beskrivning |
 | --- | ---: | --- |
+| [CD2750.pdf](CD2750.pdf) | 269 | Hela kursmaterialet samlat i en bok med innehållsförteckning: kursinformation, föreläsningsbilder, Gofer, laborationsmaterial, projektuppgift och appendix |
 | [semantik.pdf](semantik.pdf) | 230 | Föreläsningsbilder: introduktion, Gofer, operationell semantik, denotationssemantik och λ-kalkyl, beräkningsmodeller och domänteori, direct style-semantik, fortsättningar, statisk analys och axiomatisk semantik – med de utdelade bladen som bilagor |
 | [labpm.pdf](labpm.pdf) | 10 | Laborationsmaterial: implementationer av de olika semantikstilarna i Gofer |
 | [gofer.pdf](gofer.pdf) | 3 | Programmeringsspråket Gofer – en kort introduktion |
