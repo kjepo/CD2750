@@ -19,9 +19,14 @@ som den var då.
 
 ## Innehåll
 
+Hela kursmaterialet finns samlat i en bok med omslag och innehållsförteckning:
+**[CD2750.pdf](CD2750.pdf)** (269 sidor) – kursinformation, föreläsningsbilder,
+Gofer, laborationsmaterial, projektuppgift och appendix.
+
+**Bokens delar kan också laddas ner var för sig:**
+
 | Fil | Sidor | Beskrivning |
 | --- | ---: | --- |
-| [CD2750.pdf](CD2750.pdf) | 269 | Hela kursmaterialet samlat i en bok med innehållsförteckning: kursinformation, föreläsningsbilder, Gofer, laborationsmaterial, projektuppgift och appendix |
 | [semantik.pdf](semantik.pdf) | 230 | Föreläsningsbilder: introduktion, Gofer, operationell semantik, denotationssemantik och λ-kalkyl, beräkningsmodeller och domänteori, direct style-semantik, fortsättningar, statisk analys och axiomatisk semantik – med de utdelade bladen som bilagor |
 | [labpm.pdf](labpm.pdf) | 10 | Laborationsmaterial: implementationer av de olika semantikstilarna i Gofer |
 | [gofer.pdf](gofer.pdf) | 3 | Programmeringsspråket Gofer – en kort introduktion |
