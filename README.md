@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="CD2750-bokomslag-3d.jpg" alt="Bokomslag för CD2750 Programspråkssemantik" width="400">
+</p>
+
 # CD2750 Programspråkssemantik
 
 Kursmaterial från kursen CD2750 Programspråkssemantik (senare CD5140) som jag
